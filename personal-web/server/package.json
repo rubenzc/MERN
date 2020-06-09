@@ -1,0 +1,9 @@
+{
+  "name": "RuBackend",
+  "version": "1.0.0",
+  "description": "Personal web backend",
+  "main": "index.js",
+  "repository": "https://github.com/rubenzc/MERN/tree/master/personal-web/server",
+  "author": "Ru",
+  "license": "MIT"
+}
